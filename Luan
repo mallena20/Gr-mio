@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luan</title>
+    <style>
+      body{
+       color: antiquewhite;
+       
+        background-color: black;
+       }
+       
+
+    </style>
+</head>
+<body>
+    <h1>Um pouco mais sobre Luan:</h1>
+      <h2>Luan 
+        Com 293 jogos e 77 gols, colocaram o camisa 7 (Luan) entre os 20 maiores artilheiros da história do clube. Além disso, conquistou cinco títulos: Copa do Brasil (2016), Libertadores (2017), Recopa Sul-Americana (2018) e Gauchão (2018 e 2019).
+Luan foi protagonista da retomada de títulos, com as conquistas da Copa do Brasil 2016 e Libertadores 2017, e também brilhou em clássicos Gre-Nais. 
+ O Tricolor foi tricampeão da Libertadores com o Luan como grande protagonista, sendo um dos vice-artilheiros do torneio com oito gols, um deles antológico na final contra o Lanús, na Argentina.
+Luan foi eleito "Rei da América" pela tradicional votação promovida pelo jornal "El País", do Uruguai, com jornalistas de toda a América do Sul. Na Libertadores de 2018, o Grêmio foi ao país vizinho fazer sua estreia contra o Defensor, e o camisa 7 recebeu a premiação. Depois disso, passou a ser chamado de "Reizinho" pelos gremistas.</h2>
+      <h2>Luan voltou ao gremio ano passado na tentativa de se dar bem no futbol novamente, mas infelizmente nao conseguiu. Em uma entrevista, Luan disse que estava muito feliz de ter voltado ao clube que fez historia e ver o amor que a torcida gremista tem por ele.</h2>    
+     <div>
+        <img src="luan2.jpg" alt="Luan">
+      </div>
+</body>
+</html>
